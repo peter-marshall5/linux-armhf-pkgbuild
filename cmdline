@@ -1,0 +1,1 @@
+console=ttyS2,115200n8 earlyprintk=ttyS2,115200n8 console=tty1 init=/sbin/init root=PARTUUID=779cc331-7f08-d847-8446-76567f67f86d rootwait rw noinitrd
